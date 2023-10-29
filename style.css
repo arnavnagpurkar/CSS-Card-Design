@@ -13,6 +13,14 @@
     }
 }
 
+.heading {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
+    color: aqua;
+}
+
 body {
     background-color: grey;
 }
